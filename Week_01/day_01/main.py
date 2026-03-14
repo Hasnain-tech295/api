@@ -1,4 +1,4 @@
-# A minimal but complete REST API
+# A minimal but complete REST API i.e., First FastAPI Server
 
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
